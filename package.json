@@ -1,6 +1,6 @@
 {
   "name": "snooze-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM request Wrapper for SnoozeJS",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,7 @@
     "url": "https://github.com/iamchairs/snooze-request/issues"
   },
   "homepage": "https://github.com/iamchairs/snooze-request",
-  "dependencies": {}
+  "dependencies": {
+    "request": "^2.47.0"
+  }
 }
