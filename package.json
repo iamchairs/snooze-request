@@ -1,0 +1,27 @@
+{
+  "name": "snooze-request",
+  "version": "1.0.0",
+  "description": "NPM request Wrapper for SnoozeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iamchairs/snooze-request.git"
+  },
+  "keywords": [
+    "snooze",
+    "snoozejs",
+    "moment",
+    "date",
+    "datetime"
+  ],
+  "author": "Micah Williamson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamchairs/snooze-request/issues"
+  },
+  "homepage": "https://github.com/iamchairs/snooze-request",
+  "dependencies": {}
+}
